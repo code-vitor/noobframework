@@ -1,0 +1,12 @@
+<?php
+
+return [
+    'urlBase' => '/',
+    'db' => [
+        'driver'	=> '',
+        'host'		=> '',
+        'dbname'	=> '',
+        'user'		=> '',
+        'pass'		=> ''
+    ],
+];
